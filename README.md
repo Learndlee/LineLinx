@@ -26,3 +26,8 @@ To go back, select the connected relation on the
 * Solid line indicates 1st degree
 * Dash line indicates 2nd degree
 * Dotted line indicates 3rd degree
+
+# CI/CD
+Testing - unittest, flake8, mypy.
+CI pipeline to Github https://github.com/Learndlee/LineLinx master.
+Dependancies listed in requirements.txt
